@@ -1,6 +1,6 @@
 # Esqueleto TypeScript
 
-
+Teste commit simultaneo
 
 ## Getting started
 
