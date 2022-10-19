@@ -1,0 +1,11 @@
+{
+  "name": "esqueleto-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@gitlab.com:lucas.s.passos/esqueleto-typescript.git",
+  "author": "lucas.s.passos <lucas.s.passos@stf.jus.br>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
