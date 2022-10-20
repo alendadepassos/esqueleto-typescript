@@ -1,1 +1,2 @@
-console.log('Olá TypeScrip bababa')
+const message: string = "Olá :)"
+console.log(message);
